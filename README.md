@@ -2,18 +2,18 @@ Udělal jsem hromadu úkolů týkajících se strojového vidění během semest
 Na cvičení jsme pracovali ve dvojicích. Vždy jsme dostávali zadání, kde jsme museli vybrat kameru vhodnou pro danou scénu, nasnímat snímky a nějak je zpracovat.
 Následuje seznam témat úkolů.
 
-Úvodní cvičení - seznámení s nástroji
-Práce s kamerami v Jupyter Notebooku
-Vady optiky, kalibrace kamery
-Segmentace obrazu
-Využití osvětlení
-Perspektiva obrazu
-Perspektiva obrazu s 360° objektivy
-Řádkové kamery
-Techniky transformace
-Práce s hloubkovou kamerou
-Základy měření s termokamerou
-Klasifikace obrazu a detekce objektů
+1. Úvodní cvičení - seznámení s nástroji
+2.  Práce s kamerami v Jupyter Notebooku
+3.  Vady optiky, kalibrace kamery
+4.  Segmentace obrazu
+5.  Využití osvětlení
+6.  Perspektiva obrazu
+7.  Perspektiva obrazu s 360° objektivy
+8.  Řádkové kamery
+9.  Techniky transformace
+10.  Práce s hloubkovou kamerou
+11.  Základy měření s termokamerou
+12.  Klasifikace obrazu a detekce objektů
 
 Mam k dispozici domaci ulohy:
 
